@@ -1,3 +1,3 @@
 def test(){
-  sh 'echo "uulalulal"'
+  bat 'echo "uulalulal"'
 }
