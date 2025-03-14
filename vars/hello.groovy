@@ -1,3 +1,3 @@
-def test(){
+def call(){
   bat 'echo "uulalulal"'
 }
